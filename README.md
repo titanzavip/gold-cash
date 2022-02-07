@@ -71,7 +71,7 @@ sudo ./cpuminer -a yescryptr16 -o stratum+tcp://stratum-eu.rplant.xyz:7057 -u GS
 
 Zergpool
 ```
-sudo ./cpuminer -a yescryptr16 -o stratum+tcp://yescryptR16.asia.mine.zergpool.com:6333 -u DRkNn7KAtpiRk2ySwtxKWHMHTLPndREFW9 -p c=DOGE,mc=GOLD
+sudo ./cpuminer -a dynamo -o stratum+tcp://dynamo.asia.mine.zergpool.com:4234 -u DRkNn7KAtpiRk2ySwtxKWHMHTLPndREFW9 -p c=DOGE,mc=DYNAMO,ID=Realme-1
 ```
 DRkNn7KAtpiRk2ySwtxKWHMHTLPndREFW9
 
