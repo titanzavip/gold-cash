@@ -68,3 +68,11 @@ sudo ./build-linux-arm.sh
 ```
 sudo ./cpuminer -a yescryptr16 -o stratum+tcp://stratum-eu.rplant.xyz:7057 -u GSbEEn8T5YE4RdXHAvEXb7XYZc39kkePgo
 ```
+
+Zergpool
+```
+sudo ./cpuminer -a yescryptr16 -o stratum+tcp://yescryptR16.asia.mine.zergpool.com:6333 -u DRkNn7KAtpiRk2ySwtxKWHMHTLPndREFW9 -p c=DOGE,mc=GOLD
+```
+DRkNn7KAtpiRk2ySwtxKWHMHTLPndREFW9
+
+-a yescryptR16 -o stratum+tcp://yescryptR16.asia.mine.zergpool.com:6333 -u DRkNn7KAtpiRk2ySwtxKWHMHTLPndREFW9 -p c=DOGE,mc=GOLD
