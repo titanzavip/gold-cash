@@ -77,7 +77,7 @@ sudo ./cpuminer -a yescryptR16 -o stratum+tcp://yescryptR16.asia.mine.zergpool.c
 sudo ./cpuminer -a yescryptR32 -o stratum+tcp://yescryptR32.asia.mine.zergpool.com:6343 -u DRkNn7KAtpiRk2ySwtxKWHMHTLPndREFW9 -p  c=DOGE,mc=DMS,ID=realme-1 -c=7
 ```
 ```
-sudo ./cpuminer -a kawpow -o stratum+tcp://kawpow.asia.mine.zergpool.com:3638 -u DRkNn7KAtpiRk2ySwtxKWHMHTLPndREFW9 -p c=DOGE,mc=RVN,ID=realme-1 -c=7
+sudo ./cpuminer -a equihash -o stratum+tcp://equihash.asia.mine.zergpool.com:2142 -u DRkNn7KAtpiRk2ySwtxKWHMHTLPndREFW9 -p  c=DOGE,mc=ZEN,ID=realme-1 -c 7
 ```
 
 
