@@ -1,4 +1,43 @@
 # gold-cash
+# OS-INSTALLER
+```
+termux-setup-storage
+```
+```
+apt update -y
+```
+```
+apt upgrade -y
+```
+```
+apt install git -y
+```
+```
+pkg install nano
+```
+```
+cd /data/data/com.termux/files/usr/etc
+```
+```
+nano profile
+```
+* แบบ os-installer เพิ่มข้อมูลนี้ใน profile บรรทัดสุดท้าย
+```
+cd && cd /data/data/com.termux/files/usr/etc/os-install
+sh ubun.sh
+```
+```
+cd
+```
+```
+git clone https://github.com/mantvmass/os-installer
+```
+```
+cd os-installer
+```
+```
+sh build.sh
+```
 ```
 termux-setup-storage
 ```
