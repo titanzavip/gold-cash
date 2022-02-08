@@ -57,6 +57,9 @@ sudo apt-get install automake autoconf pkg-config libcurl4-openssl-dev libjansso
 git clone https://github.com/tpruvot/cpuminer-multi
 ```
 ```
+git clone https://github.com/curvehashcoin/cpuminer-curvehash.git
+```
+```
 cd cpuminer-multi
 ```
 ```
